@@ -18,8 +18,18 @@
 
 ### Skills
 **Hard Skills:** 
+- Javascript
+- Typescript
+- CSS
+- HTML
 **Soft Skills:**
+- Team player
+- Communicative
+- Reliable
 **********************
 
 ### Languages
+- Russian
+- English
+- Polish 
 **********************
