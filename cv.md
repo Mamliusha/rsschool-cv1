@@ -8,7 +8,7 @@
 ### Education
 - Bachelor of International Relations at WSB Gdansk (2014 - 2018)
 - Frontend Developer at IT Girls School (2022 - 2023)
-- Frontend Developer at RS School (2024 * current)
+- Frontend Developer at RS School (2024 - current)
 **********************
 
 ### Work Experience
@@ -22,6 +22,8 @@
 - Typescript
 - CSS
 - HTML
+
+
 **Soft Skills:**
 - Team player
 - Communicative
